@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/nomsolutions/VietCalendar/releases/latest"><b>⬇ Tải bản mới nhất</b></a><br>
-  <a href="https://github.com/nomsolutions/VietCalendar/releases/download/v1.4.0/VietCalendar.exe"><b>(HOẶC TẢI TRỰC TIẾP)</b></a>
+  <a href="https://github.com/nomsolutions/VietCalendar/releases/download/v1.6.2/VietCalendar.exe"><b>(HOẶC TẢI TRỰC TIẾP)</b></a>
   <br>
   <sub>Một tệp <code>VietCalendar.exe</code> (~3 MB), chạy trực tiếp, không cần cài đặt .NET</sub>
 </p>
